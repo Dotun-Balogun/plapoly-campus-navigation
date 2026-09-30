@@ -1,0 +1,5 @@
+-- PLAPOLYNAV personal seed file
+--
+-- This file intentionally inserts no rows. Add your real campus data here
+-- when you are ready. The exact formats are documented in SUPABASE_SETUP.md.
+-- Keeping this file empty ensures a new Supabase project starts with no mock data.
